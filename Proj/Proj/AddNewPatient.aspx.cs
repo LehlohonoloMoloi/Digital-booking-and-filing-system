@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace Proj
+namespace Proj\\And we are within Sire!!!!!!!!!!!!!!!!!!!!!!
 {
     public partial class AddNewPatient : System.Web.UI.Page
     {
